@@ -1,0 +1,70 @@
+{% extends 'index.html' %}
+
+{% block body %}
+
+<div class="container">
+    <footer>
+        <h3>Info</h3>
+        <p>This is an Image Classification Application which can classify the images into the following classes mentioned below.</p>
+           <style>
+            table {
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 100%;
+            }
+            
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 8px;
+            }
+            
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            </style>
+           <table>
+            
+            <tr>
+              <td>1. Bear</td>
+              <td>2. Cat</td>
+              <td>3. Tiger</td>
+            </tr>
+            <tr>
+              <td>4. Cow</td>
+              <td>5. Deer</td>
+              <td>6. Dog</td>
+            </tr>
+            <tr>
+              <td>7. Duck</td>
+              <td>8. Eagle</td>
+              <td>9. Elephant</td>
+            </tr>
+            <tr>
+              <td>10. Human</td>
+              <td>11. Lion</td>
+              <td>12. Monkey</td>
+            </tr>
+            <tr>
+              <td>13. Mouse</td>
+              <td>14. Panda</td>
+              <td>15. Rabbit</td>
+            </tr>
+            <tr>
+                <td>16. Wolf</td>
+                <td>17. Chick</td>
+                <td>18. Sheep</td>
+              </tr>
+            
+          </table>
+          
+    </footer>
+
+</div>
+<style>
+    #myrow{
+        background-color:#EBEDEF;
+    }
+
+</style>
+{% endblock  %}

@@ -45,17 +45,20 @@ Finally the HOG would generate a Histogram for each of these regions separately.
 
 ### Step 3. WebApp Framework
 
-
-## Deployed Web Application
-
+![repo7](https://user-images.githubusercontent.com/64823050/129591794-b4fe2d45-27bf-4167-9be8-147a05c29cf7.jpg)
 
 
-### Link: 
+## Web Application
+ 
+![repo15](https://user-images.githubusercontent.com/64823050/130605735-ca553035-4ff5-4450-9f69-431d8c5e3597.jpg)
+
 
 ## Result
 
-
+![repo16](https://user-images.githubusercontent.com/64823050/130605750-10311cbf-d5df-4b1d-80fa-916bea1a8683.jpg)
 
 
 ## References
+
+[HOG Tranformation](https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/)
 

@@ -21,7 +21,7 @@ You can install Python dependencies using ``` pip install -r requirements.txt ``
 
 The dataset consist of images of 18 different classes, 90 images for each class.
 
-[Dataset](https://drive.google.com/drive/folders/18d2kHoA361jIWbgrCnpNGWbtfwDTE5fA)
+[Dataset link](https://drive.google.com/drive/folders/18d2kHoA361jIWbgrCnpNGWbtfwDTE5fA)
 
 
 ## Approach

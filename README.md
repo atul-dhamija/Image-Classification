@@ -29,8 +29,8 @@ The dataset consist of images of 18 different classes, 90 images for each class.
 
 ### Step 1. Data Preprocessing
 
-a) Data labelling.
-b) Dumped the dataset into a pickle file.
+#### a) Data labelling.
+#### b) Dumped the dataset into a pickle file.
 
 
 ### Step 2. Feature extraction using HOG transform

@@ -35,7 +35,7 @@ b) Dumped the dataset into a pickle file.
 
 ### Step 2. Feature extraction using HOG transform
 
-
+![repo13](https://user-images.githubusercontent.com/64823050/130604861-7162181b-236a-47c3-aa34-8fccc89dd802.jpg) ![repo14](https://user-images.githubusercontent.com/64823050/130604828-18c0040f-4c1e-4847-bf4d-7fbe3b3453bf.jpg)
 
 HOG, or Histogram of Oriented Gradients, is a feature descriptor that is often used to extract features from image data. It is widely used in computer vision tasks for object detection.
 The HOG descriptor focuses on the structure or the shape of an object. . HOG is able to provide the edge direction as well. This is done by extracting the gradient and orientation (or you can say magnitude and direction) of the edges

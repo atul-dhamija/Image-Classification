@@ -21,7 +21,7 @@ You can install Python dependencies using ``` pip install -r requirements.txt ``
 
 The dataset consist of images of 18 different classes, 90 images for each class.
 
-[Dataset]()
+[Dataset](https://drive.google.com/drive/folders/18d2kHoA361jIWbgrCnpNGWbtfwDTE5fA)
 
 
 ## Approach
@@ -43,22 +43,30 @@ The HOG descriptor focuses on the structure or the shape of an object. . HOG is 
 Additionally, these orientations are calculated in ‘localized’ portions. This means that the complete image is broken down into smaller regions and for each region, the gradients and orientation are calculated.
 Finally the HOG would generate a Histogram for each of these regions separately. The histograms are created using the gradients and orientations of the pixel values, hence the name ‘Histogram of Oriented Gradients’
 
+
 ### Step 3. WebApp Framework
+
 
 ![repo7](https://user-images.githubusercontent.com/64823050/129591794-b4fe2d45-27bf-4167-9be8-147a05c29cf7.jpg)
 
 
+
 ## Web Application
+ 
  
 ![repo15](https://user-images.githubusercontent.com/64823050/130605735-ca553035-4ff5-4450-9f69-431d8c5e3597.jpg)
 
 
+
 ## Result
+
 
 ![repo16](https://user-images.githubusercontent.com/64823050/130605750-10311cbf-d5df-4b1d-80fa-916bea1a8683.jpg)
 
 
+
 ## References
+
 
 [HOG Tranformation](https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/)
 
